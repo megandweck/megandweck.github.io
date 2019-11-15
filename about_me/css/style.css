@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Fahkwang:300,400,500,700&display=swap');
+body {
+  font-family: 'Fahkwang', sans-serif;
+  background-color: #f2d9e6;
+  color: #111111;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 80px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 30px;
+  text-align: center;
+}
+
+h3 {
+  font-weight: 500;
+  font-size: 24px;
+  margin-top: 40px;
+}
+
+h6 {
+  font-weight: 300;
+  font-size: 14px;
+  margin-top: 15px;
+  text-align: center;
+}
+
+
+img {
+  width: 800px;
+  display: block;
+  margin: 0 auto;
+}
+
+.like {
+  color: #00cc99;
+}
+
+.dislike {
+  color: #b30000;
+}
